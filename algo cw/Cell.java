@@ -1,6 +1,4 @@
-/**
- * Created by Visur on 17/03/28.
- */
+
 
 public class Cell implements Comparable<Cell> {
 
